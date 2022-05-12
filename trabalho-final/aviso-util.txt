@@ -1,0 +1,2 @@
+# AVISO
+O arquivo .jar e os códigos foram feitos em Java 7. 
